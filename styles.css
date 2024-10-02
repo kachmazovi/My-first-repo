@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+@import url("//cdn.web-fonts.ge/fonts/bpg-dedaena-block/css/bpg-dedaena-block.min.css");
+
 h1 {
     color: blue;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+}
+
+h2 {
+    font-family: "Jacquarda Bastarda 9", serif;
+}
+
+h3 {
+    font-family: "Arial GEO BoldItalic", sans-serif;
+    font-family: "BPG DedaEna Block", sans-serif;
 }
